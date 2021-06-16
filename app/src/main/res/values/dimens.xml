@@ -8,8 +8,11 @@
     <dimen name="elevation_4x">8dp</dimen>
 
     <!-- Corner Radius -->
-    <dimen name="corner_radius_xsmall">4dp</dimen>
-    <dimen name="corner_radius_xsmall_inner">2dp</dimen>
+    <dimen name="corner_radius_xxsmall">4dp</dimen>
+    <dimen name="corner_radius_xxsmall_inner">2dp</dimen>
+
+    <dimen name="corner_radius_xsmall">6dp</dimen>
+    <dimen name="corner_radius_xsmall_inner">4dp</dimen>
 
     <dimen name="corner_radius_small">10dp</dimen>
     <dimen name="corner_radius_small_inner">8dp</dimen>
