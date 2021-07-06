@@ -4,7 +4,7 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="primary">#212121</color>
-    <color name="primary_dark">#000000</color>
+    <color name="primary_dark">#101010</color>
     <color name="primary_light">#525252</color>
 
     <color name="secondary">#11F7C2</color>
