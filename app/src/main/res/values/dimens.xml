@@ -8,26 +8,20 @@
     <dimen name="elevation_4x">8dp</dimen>
 
     <!-- Corner Radius -->
-    <dimen name="corner_radius_xxsmall">4dp</dimen>
     <dimen name="corner_radius_xxsmall_inner">2dp</dimen>
-
-    <dimen name="corner_radius_xsmall">6dp</dimen>
+    <dimen name="corner_radius_xxsmall">4dp</dimen>
     <dimen name="corner_radius_xsmall_inner">4dp</dimen>
-
-    <dimen name="corner_radius_small">10dp</dimen>
+    <dimen name="corner_radius_xsmall">6dp</dimen>
     <dimen name="corner_radius_small_inner">8dp</dimen>
-
-    <dimen name="corner_radius_medium">12dp</dimen>
+    <dimen name="corner_radius_small">10dp</dimen>
     <dimen name="corner_radius_medium_inner">10dp</dimen>
-
-    <dimen name="corner_radius_xmedium">16dp</dimen>
+    <dimen name="corner_radius_medium">12dp</dimen>
     <dimen name="corner_radius_xmedium_inner">14dp</dimen>
-
-    <dimen name="corner_radius_large">20dp</dimen>
+    <dimen name="corner_radius_xmedium">16dp</dimen>
     <dimen name="corner_radius_large_inner">18dp</dimen>
-
-    <dimen name="corner_radius_xlarge">26dp</dimen>
+    <dimen name="corner_radius_large">20dp</dimen>
     <dimen name="corner_radius_xlarge_inner">24dp</dimen>
+    <dimen name="corner_radius_xlarge">26dp</dimen>
 
     <!-- Text -->
     <dimen name="text_size_xsmall">6sp</dimen>
@@ -64,5 +58,12 @@
     <dimen name="spacing_60">60dp</dimen>
     <dimen name="spacing_70">70dp</dimen>
     <dimen name="spacing_80">80dp</dimen>
+
+    <!-- Icon Sizes -->
+    <dimen name="ic_size_small">16dp</dimen>
+    <dimen name="ic_size_medium">32dp</dimen>
+    <dimen name="ic_size_large">64dp</dimen>
+    <dimen name="ic_size_huge">128dp</dimen>
+    <dimen name="ic_size_xhuge">180dp</dimen>
     
 </resources>
